@@ -51,7 +51,6 @@ public class Game extends AppCompatActivity {
         button_play.setVisibility(View.VISIBLE); //todo maybe check if it visible
     }
 
-
     public void play(View view) {
         aiChoice = getRandomChoiceAI();
         TextView label_ai_choice = findViewById(R.id.label_ai_choice);
