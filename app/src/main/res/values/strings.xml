@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="button_rules">Rules</string>
+    <string name="button_game">Start</string>
+    <string name="title_activity_display_game_rules">Game Rules</string>
+    <string name="game_definition">Rock–paper–scissors (also known as paper, scissors, stone or other variants) is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are rock(a closed fist), paper(a flat hand), and scissors(a fist with the index and middle fingers extended, forming a V). Scissorsis identical to the two-fingered V sign (aka victoryor peace sign) except that it is pointed horizontally instead of being held upright in the air. A simultaneous, zero-sum game, it has only two possible outcomes other than a tie: one of the two players wins, and the other player loses.</string>
+    <string name="button_scissors">Scissors</string>
+    <string name="button_paper">paper</string>
+    <string name="button_rock">Rock</string>
+    <string name="label_your_choice">Your Choice:</string>
+    <string name="label_ai_choice">Computer Choice: ???</string>
+    <string name="button_play">Play</string>
+    <string name="label_you_count">0</string>
+    <string name="label_computer_count">0</string>
+    <string name="label_you">YOU:</string>
+    <string name="label_computer">COMPUTER:</string>
+    <string name="label_who_won" />
+</resources>
